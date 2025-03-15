@@ -1,4 +1,4 @@
-# Meu Projeto
+# Gui PS1
 Este é o meu projeto em PowerShell! Aqui está a estrutura inicial:
 
 ## Estrutura de Pastas
