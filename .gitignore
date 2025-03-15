@@ -1,0 +1,11 @@
+# Ignorar arquivos desnecessários
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.env
+node_modules/
+dist/
+.vscode/
+.idea/
